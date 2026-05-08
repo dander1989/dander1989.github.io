@@ -4,6 +4,8 @@ excerpt: "Quick geospatial analysis pipeline that computes and visualizes a view
 header:
   teaser: /assets/images/Good_and_great_views_arch.png
 layout: single
+sidebar:
+  nav: "main"
 ---
 
 # Gateway Arch Viewshed Analysis

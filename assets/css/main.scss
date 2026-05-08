@@ -1,0 +1,18 @@
+--- # This front matter ensures Jekyll processes the SCSS --- @import "minimal-mistakes";
+
+/* Increase the width of the main content area */
+.archive,
+.page {
+    @include breakpoint($large) {
+        padding-right: 0;
+        margin-right: 0;
+        width: calc(100% - #{$right-sidebar-width-narrow});
+    }
+
+    @include breakpoint($x-large) {
+        width: 80%;
+        /* Standard is much narrower; 80-85% is a good "wide" feel */
+        max-width: 1200px;
+        /* Limits it so it doesn't look stretched on ultrawide monitors */
+    }
+}

@@ -4,6 +4,8 @@ excerpt: "A spatial data pipeline that evaluates the accuracy of NWS convective 
 header:
   teaser: /assets/images/warn_lsrs_felt.png
 layout: single
+sidebar:
+  nav: "main"
 priority: 1
 ---
 

@@ -4,6 +4,8 @@ excerpt: "Analyzing tree canopy equity in St. Louis City using NLCD 2023 raster 
 header:
   teaser: /assets/images/priority_zones.png
 layout: single
+sidebar:
+  nav: "main"
 priority: 2
 ---
 

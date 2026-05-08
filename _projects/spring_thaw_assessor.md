@@ -4,6 +4,8 @@ excerpt: "A spatial analysis project that identifies residential properties at h
 header:
   teaser: /assets/images/01_risk_by_building_1.png
 layout: single
+sidebar:
+  nav: "main"
 priority: 3
 ---
 
