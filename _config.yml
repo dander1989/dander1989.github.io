@@ -1,0 +1,26 @@
+# Theme Setup
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Site Info
+title: "David Anderson | GIS and Spatial Data Portfolio"
+url: "https://dander1989.github.io/"
+baseurl: "" # Leave empty "" if your repo is named yourusername.github.io
+
+# Collections (This creates your Project Gallery)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Defaults for the Grid View
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
