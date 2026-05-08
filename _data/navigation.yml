@@ -1,6 +1,10 @@
 main:
+  -title: "Home"
+    url: /  
+  - title: "About"
+    url: /about/
   - title: "Projects"
-    url: /
+    url: /projects-archive/
   - title: "Resume"
     url: /assets/docs/DavidAnderson_20260505.pdf
     target: "_blank"
