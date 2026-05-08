@@ -24,3 +24,18 @@ defaults:
       layout: single
       author_profile: true
       share: true
+
+# Author Profile
+author:
+  name: "David Anderson"
+  avatar: "assets/images/1758555376147.png"
+  bio: "Spatial Data Specialist | GIS Analytics"
+  location: "St. Louis Metropolitan Region"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dander1989"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/dander89"
+      
