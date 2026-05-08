@@ -1,6 +1,6 @@
 # Theme Setup
-remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # Options: air, aqua, contrast, dark, dirt, sunrise
+remote_theme: "mmistakes/minimal-mistakes"
 locale: "en-US"
 plugins:
   - jekyll-remote-theme
