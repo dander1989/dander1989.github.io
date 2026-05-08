@@ -1,19 +1,26 @@
 ---
 layout: single
 author_profile: true
+title: ""
 excerpt: "Geospatial automation, spatial SQL, and data analytics. Building efficient, code-driven solutions for complex geographic problems."
 header:
   overlay_image: /assets/images/digital_globe.jpg
+  overlay_text: "David Anderson"
   overlay_filter: 0.5
-  caption: "Data-driven spatial insights"
+  caption: "Geospatial Data Analyst | Applied Scientist"
 
 ---
 
 ### Experience & Skills
-I am a Geospatial Analyst with 10 years of experience in the aerospace and defense sectors. My work focuses on moving away from manual map-making toward automated, code-driven insights.
+I am a Geospatial Analyst with 10 years of experience in the aerospace and defense sectors. I'm working on focusing away from just static mapmaking and more towards automated, code-driven insights using cloud-native tools and data formats.
 
-* **Core Skills:** Python (GeoPandas, Rasterio), SQL (PostGIS, DuckDB), ArcGIS Pro Automation.
-* **Focus:** Climate-tech, urban mobility, and environmental analytics.
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | Python (Pandas / GeoPandas, Rasterio, ArcPy), SQL (PostgreSQL, PostGIS, DuckDB, SedonaDB) |
+| **Analysis** | Spatial Statistics, Viewshed Analysis, DEM and LiDAR Processing |
+| **Automation** | ArcGIS Pro SDK, ETL Pipelines |
+| **Desktop**  | ArcGIS Pro, QGIS |
+| **Cloud** | AWS S3 and CLI, Geoparquet, Cloud Optimized GeoTIFFs (COGs) |
 
 ---
 
