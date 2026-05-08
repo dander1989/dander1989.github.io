@@ -5,6 +5,8 @@ permalink: /projects-archive/
 author_profile: true
 ---
 
+Debug: Number of projects found: {{ site.projects | size }}
+
 {% for project in site.projects %}
   {% include archive-single.html type="grid" %}
 {% endfor %}

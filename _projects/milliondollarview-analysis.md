@@ -2,6 +2,7 @@
 title: "St. Louis Viewshed Analysis (aka 'Million Dollar View Validator')"
 excerpt: "Quick geospatial analysis pipeline that computes and visualizes a viewshed to the Gateway Arch for a 'million dollar view'"
 teaser: /assets/images/Good_and_great_views_arch.png
+layout: single
 ---
 
 # Gateway Arch Viewshed Analysis

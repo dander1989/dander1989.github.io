@@ -2,6 +2,7 @@
 title: "Spring Thaw: Snowmelt & Flood Vulnerability Assessor"
 excerpt: "A spatial analysis project that identifies residential properties at highest risk of flooding during spring snowmelt by integrating FEMA flood zones, historical (April 12, 2024) snow water equivalent (SWE) data, and building footprints."
 teaser: /assets/images/01_risk_by_building_1.png
+layout: single
 ---
 
 # Spring Thaw: Snowmelt & Flood Vulnerability Assessor
