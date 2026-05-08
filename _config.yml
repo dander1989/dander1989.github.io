@@ -1,13 +1,24 @@
 # Theme Setup
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # Options: air, aqua, contrast, dark, dirt, sunrise
+locale: "en-US"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Site Info
 title: "David Anderson | GIS and Spatial Data Portfolio"
 url: "https://dander1989.github.io/"
 baseurl: "" # Leave empty "" if your repo is named yourusername.github.io
+
+# Performance & Features
+repository: "dander1989/dander1989.github.ioyour-repo-name" # helps with GitHub metadata
+teaser: "/assets/images/nasa-earth.jpg" # default teaser if one is missing
+search: true
+breadcrumbs: true
+words_per_minute: 200
 
 # Collections (This creates your Project Gallery)
 collections:
@@ -24,6 +35,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      sidebar:
+        nav: "main"
 
 # Author Profile
 author:
@@ -32,6 +45,9 @@ author:
   bio: "Spatial Data Specialist | GIS Analytics"
   location: "St. Louis Metropolitan Region"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:andersondavid1989@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dander1989"

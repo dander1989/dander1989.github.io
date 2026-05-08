@@ -27,9 +27,11 @@ I am a Geospatial Analyst with 10 years of experience in the aerospace and defen
 ### Featured Projects
 
 <div class="entries-grid">
-  {% for project in site.projects limit:3 %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
+  {% assign sorted_projects = site.projects | sort: "priority" %}
+    {% for post in sorted_projects limit:3 %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
+    ```
 </div>
 
 [View all projects](/projects-archive/){: .btn .btn--primary}

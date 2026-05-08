@@ -1,8 +1,10 @@
 ---
 title: "Urban Shade and Income Analysis - St. Louis, MO"
 excerpt: "Analyzing tree canopy equity in St. Louis City using NLCD 2023 raster data + ACS 5-year estimates."
-teaser: /assets/images/priority_zones.png
+header:
+  teaser: /assets/images/priority_zones.png
 layout: single
+priority: 2
 ---
 
 # St. Louis Tree Canopy & Income Equity Analysis
