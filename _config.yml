@@ -14,7 +14,7 @@ url: "https://dander1989.github.io/"
 baseurl: "" # Leave empty "" if your repo is named yourusername.github.io
 
 # Performance & Features
-repository: "dander1989/dander1989.github.ioyour-repo-name" # helps with GitHub metadata
+repository: "dander1989/dander1989.github.io" # helps with GitHub metadata
 teaser: "/assets/images/nasa-earth.jpg" # default teaser if one is missing
 search: true
 breadcrumbs: true
@@ -42,7 +42,7 @@ defaults:
 author:
   name: "David Anderson"
   avatar: "assets/images/1758555376147.png"
-  bio: "Spatial Data Specialist | GIS Analytics"
+  bio: "Spatial Data Specialist, GIS Analytics"
   location: "St. Louis Metropolitan Region"
   links:
     - label: "Email"

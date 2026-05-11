@@ -12,7 +12,11 @@ header:
 ---
 
 ### Experience & Skills
-I am a Geospatial Analyst with 10 years of experience in the aerospace and defense sectors. I'm working on focusing away from just static mapmaking and more towards automated, code-driven insights using cloud-native tools and data formats.
+I am a Geospatial Analyst with 10 years of experience with geospatial methods and tools. I'm working on focusing away from just static mapmaking and more towards automated, code-driven insights using cloud-native tools and data formats. For more information see my 'About' section!
+
+I would love to connect with you on LinkedIn. Send me a connection request and let's talk!
+
+Also be sure to check out my personal projects I have been working on!
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
